@@ -98,6 +98,12 @@ Doubly Linked List
 
 Console-Based UI
 
+# Notes & improvements you can make:
+- Switch to JSON storage (Gson / Jackson) for more robust storage.
+- Add validation for phone number length/format.
+- Make searches show multiple matches instead of stopping at first.
+- Convert to a GUI (Swing/JavaFX or Android) if desired.
+
 📜 License
 This project is free to use and modify for learning or personal use.
 
